@@ -8,6 +8,7 @@ class DataTypes{
     {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter Number of times you try the check Data type game:");
         int t=sc.nextInt();
 
         for(int i=0;i<t;i++)
